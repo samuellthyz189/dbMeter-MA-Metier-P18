@@ -18,7 +18,6 @@
    1. [Hardware du serveur](#hardware-du-serveur)
    2. [Langage(s) de programmation utilisé(s)](#langages-de-programmation-utilisés-1)
 
-Dépôt pour le projet 18, Monitoring du bruit dans en temps réel dans une rue de Ste-Croix
 
 ## Présentation du projet
 
@@ -71,3 +70,5 @@ _Suite à venir_
 ### Langage(s) de programmation utilisé(s)
 
 _Suite à venir_
+
+Dépôt pour le projet 18, Monitoring du bruit dans en temps réel dans une rue de Ste-Croix
