@@ -71,4 +71,4 @@ _Suite à venir_
 
 _Suite à venir_
 
-Dépôt pour le projet 18, Monitoring du bruit dans en temps réel dans une rue de Ste-Croix
+Dépôt pour le projet 18, Monitoring du bruit dans en temps réel dans une rue de Ste-Croix 
