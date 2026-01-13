@@ -21,14 +21,14 @@
 
 ## Présentation du projet
 
-Le projet n°18 consiste à mettre en place des capteurs sonores dans la ville de Sainte-Croix afin d'y mesurer le niveau sonore<br>
-Pour cela, nous ont étés mis à disposition des _Raspberry Pi 4_, équipés de capteurs sonores.<br>
+Le projet n°18 consiste à mettre en place des capteurs sonores dans la ville de Sainte-Croix afin d'en mesurer le niveau sonore.<br>
+Pour cela, nous ont été mis à disposition des _Raspberry Pi 4_, équipés de capteurs sonores.<br>
 Pour mettre en place ce projet, plusieurs étapes principales doivent être mises en place :<br>
 
-1. L'installation du matériel
-2. Le développement du système embarqué
-3. La connexion entre chaque capteur et le serveur
-4. La mise en place d'un serveur web
+1. Le développement du système embarqué
+2. La connexion entre chaque capteur et le serveur
+3. La mise en place d'un serveur web
+4. L'installation du matériel
 5. La récolte des données, ainsi que leur affichage
 
 _Suite à venir_
