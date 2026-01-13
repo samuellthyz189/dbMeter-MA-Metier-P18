@@ -2,6 +2,7 @@
 
 ## Notes du Lundi 12 janvier 2026
 
+### _Samuel, Mouldi, Aurélien_
 ### Aujourd'hui une idée pour un premier plan a été établie :<br>
 <pre>Coder le software du Raspberry en python, car python est un langage 
 polyvalent et qu'il a une très grande compatibilité.
