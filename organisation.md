@@ -54,3 +54,11 @@ m'envoyer un message !
 Bon, je vous souhaite une bonne réunion, et j'attends avec impatience vos retours !
 
 </pre>
+
+<pre>
+<h3>Pourquoi ne pas utiliser le logiciel CJDNS ?</h3>
+CJDNS est un logiciel disponible sur Linux et sur Raspberry PI.
+Il permet de créer un réseau Mesh rapidement (15mn par Raspberry)
+Il est disponible sur github <a href="https://github.com/tomeshnet/prototype-cjdns-pi?tab=readme-ov-file" target="_blank">ici</a>
+Le logiciel date un peu (6 ans) mais ça devrait largement aller
+</pre>
